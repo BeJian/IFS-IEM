@@ -10,7 +10,7 @@ The following FSMs were selected for comparison with our IFS-IEM：
 - ReliefF-RFECV
 ![Fig](line_L1.png)
 
-The models include SVM, KNN, DT, DBN, DNN, CNN, RF, XGBoost, CatBoost, LightGBM were used for fault diagnosis performance testing. If you are interested in CNN/DNN design, you can refer to FD test.ipynb
+The models include SVM, KNN, DT, DBN, DNN, CNN, RF, XGBoost, CatBoost, LightGBM were used for fault diagnosis performance testing. If you are interested in the design of these models, you can refer to FD test.ipynb
 
 ## Citation
 If you use this code for your research, please cite our paper:
